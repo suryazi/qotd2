@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="falblawi" id="0" name="QuoteServiceIntegrationTests" package="com.example" tests="1" time="0.312" timestamp="2012-03-27T10:55:55">
+      <properties />
+
+      <testcase classname="com.example.QuoteServiceIntegrationTests" name="testSomething" time="0.312">
+          <failure message="java.lang.AssertionError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: java.lang.AssertionError: Implement me
+	at com.example.QuoteServiceIntegrationTests.testSomething(QuoteServiceIntegrationTests.groovy:20)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="falblawi" id="1" name="QuoteControllerTests" package="com.example" tests="1" time="2.886" timestamp="2012-03-27T10:55:31">
+      <properties />
+
+      <testcase classname="com.example.QuoteControllerTests" name="testSomething" time="2.714">
+          <failure message="java.lang.AssertionError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: java.lang.AssertionError: Implement me
+	at com.example.QuoteControllerTests.testSomething(QuoteControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="falblawi" id="2" name="QuoteServiceTests" package="com.example" tests="1" time="0.468" timestamp="2012-03-27T10:55:35">
+      <properties />
+
+      <testcase classname="com.example.QuoteServiceTests" name="testSomething" time="0.062">
+          <failure message="java.lang.AssertionError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: java.lang.AssertionError: Implement me
+	at com.example.QuoteServiceTests.testSomething(QuoteServiceTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="falblawi" id="3" name="QuoteTests" package="com.example" tests="1" time="1.014" timestamp="2012-03-27T10:55:36">
+      <properties />
+
+      <testcase classname="com.example.QuoteTests" name="testSomething" time="1.014">
+          <failure message="java.lang.AssertionError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: java.lang.AssertionError: Implement me
+	at com.example.QuoteTests.testSomething(QuoteTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+Testsuite: com.example.QuoteTests
+Tests run: 1, Failures: 1, Errors: 0, Time elapsed: 1.014 sec
+------------- Standard Output ---------------
+--Output from testSomething--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSomething--
+------------- ---------------- ---------------
+
+Testcase: testSomething took 1.014 sec
+	FAILED
+java.lang.AssertionError: Implement me
+junit.framework.AssertionFailedError: java.lang.AssertionError: Implement me
+	at com.example.QuoteTests.testSomething(QuoteTests.groovy:15)
+
